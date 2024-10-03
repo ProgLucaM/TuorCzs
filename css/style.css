@@ -12,7 +12,7 @@ header{width: 100%;
     justify-content: space-between;
     align-items: center;
     padding: 0px 50px;
-    background-color:transparent;}
+    background-color:#191c03;}
 header img{width: 100px; border: none;}
 header nav{display: flex;}
 header li a{color: #fff; }
