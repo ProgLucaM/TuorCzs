@@ -36,6 +36,7 @@ header li:last-child{margin-right: 0;}
     flex-direction: column;
     margin-top: 200px;
     width: 100%;
+    margin-bottom: 188px;
 }
 .contato h1{
     margin-right: 50px;
@@ -52,6 +53,7 @@ header li:last-child{margin-right: 0;}
     border-radius: 20px;
     width: 700px;
     height: 300px;
+    padding: 20px 50px;
 }
 .inserir{
     width: 300px;
@@ -98,6 +100,14 @@ button:hover{
 .info iframe{
     width:100px;
     height: 100px;
+}
+.sociais{
+    display: flex;
+    align-items: baseline;
+    flex-direction: row;
+}
+.sociais li{
+    padding-right: 10px;
 }
 
 
@@ -237,5 +247,7 @@ footer ul li a:hover{
 }
 footer p{
     color: #c3c63b;
+    text-align: center;
+}
     text-align: center;
 }
