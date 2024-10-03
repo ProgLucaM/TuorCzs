@@ -25,7 +25,7 @@ header li:last-child{margin-right: 0;}
 }
 /*Hero*/
 .hero{
-    background-image: url(img/hero.jpg); 
+    background-color: #191c03;
     background-size: cover;
     min-height: 100vh;
     color:#fff;
