@@ -31,7 +31,7 @@ header li:last-child{margin-right: 0;}
 /*Hero*/
 .hero{
     /* background-color: #191c03; */
-    background-image: url(/img/sumauma_equipe-115-1920x1280.webp); 
+    background-image: url(img/sumauma_equipe-115-1920x1280.webp); 
     background-size: cover;
     min-height: 100vh;
     color:#191c03;
