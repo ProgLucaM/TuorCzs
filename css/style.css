@@ -25,7 +25,7 @@ header li:last-child{margin-right: 0;}
 }
 /*Hero*/
 .hero{
-    background-image: url(/img/SERRA-DO-DIVISOR.jpg); 
+    background-image: url(img/hero.jpg); 
     background-size: cover;
     min-height: 100vh;
     color:#fff;
